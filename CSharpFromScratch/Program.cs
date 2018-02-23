@@ -10,6 +10,12 @@ namespace CSharpFromScratch
     {
         static void Main(string[] args)
         {
+            int x = 12;
+            int y = 13;
+           int  sum = x + y;
+            Console.WriteLine("addition of x and y is" + sum);
         }
     }
+        
+       
 }

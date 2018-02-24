@@ -29,7 +29,7 @@ namespace IfElse
             }
             else
             {
-                Console.WriteLine("checked age again");
+                Console.WriteLine("checke age again");
             }
         }
     }
